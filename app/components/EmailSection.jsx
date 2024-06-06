@@ -1,7 +1,7 @@
 "use client"
 import React, { useState } from 'react';
-import GithubIcon from "../../public/icons8-github.svg";
-import LinkedinIcon from "../../public/icons8-linkedin.svg";
+// import GithubIcon from "../../public/icons8-github.svg";
+// import LinkedinIcon from "../../public/icons8-linkedin.svg";
 import Link from 'next/link';
 import Image from 'next/image';
 
@@ -51,14 +51,14 @@ const EmailSection = () => {
                 </p>
                 <p className='text-xl font-bold text-white my-2'>Call:</p>
                 <p className='text-xl font-bold text-white my-2'>Chat:</p>
-                <div className='socials flex flex-row gap-2'>
+                {/* <div className='socials flex flex-row gap-2'>
                     <Link href='github.com'>
                         <Image src={GithubIcon} alt='Github Icon' />
                     </Link>
                     <Link href='linkedin.com'>
                         <Image src={LinkedinIcon} alt='Linkedin Icon' />
                     </Link>
-                </div>
+                </div> */}
             </div>
             <div className='text-center'>
                <strong className='text-xl font-bold text-white '>Bot to be Updated</strong>
