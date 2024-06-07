@@ -25,7 +25,7 @@ const TAB_DATA = [
         id: "education",
         content: (
             <div className="relative overflow-hidden rounded-lg shadow-lg group text-center ">
-               <video width="600" controls>
+               <video width="600" controls controlsList="nodownload">
         <source src= '/video/TrendingNativeDressingmen.mp4' type='video/mp4' title='men'/>
           Your browser does not support the video tag.
 </video>
