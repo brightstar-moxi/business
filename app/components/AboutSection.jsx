@@ -13,7 +13,7 @@ const TAB_DATA = [
      id: "skills",
      content: (
        
-        <video width="600" controls>
+        <video width="600" controls  controlsList="nodownload">
         <source width="600" src= '/video/100UniqueAnkaraWoman.mp4' type='video/mp4' title='men'/>
           Your browser does not support the video tag.
 </video>
@@ -45,7 +45,7 @@ const TAB_DATA = [
         id: "certificate",
         content: (
             <section>
-            <video width="600" controls>
+            <video width="600" controls  controlsList="nodownload">
             <source  src= '/video/boys.mp4' type='video/mp4' />
               Your browser does not support the video tag.
     </video>
@@ -57,7 +57,7 @@ const TAB_DATA = [
         id: "girls",
         content: (
             <main className="relative overflow-hidden rounded-lg shadow-lg group text-center "> 
-            <video width="700" controls>
+            <video width="700" controls  controlsList="nodownload">
             <source width="600" src= '/video/girl.mp4' type='video/mp4'/>
               Your browser does not support the video tag.
     </video>
