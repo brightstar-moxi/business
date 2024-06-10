@@ -6,8 +6,8 @@ import ProjectSection from "./components/ProjectSection";
 import EmailSection from "./components/EmailSection";
 import Footer from "./components/Footer";
 import AchievementSection from "./components/AchievementSection";
-import AdBanner from "./components/AdBanner";
-import Testimony from "./components/Testimony ";
+// import AdBanner from "./components/AdBanner";
+// import Testimony from "./components/Testimony ";
 // import Link from 'next/link';
 
 export default function Home() {
@@ -21,7 +21,7 @@ export default function Home() {
 
 <AboutSection />
 <ProjectSection/>
-<Testimony/>
+{/* <Testimony/> */}
 <EmailSection/>
 
 </div>
