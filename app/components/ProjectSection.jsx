@@ -9,7 +9,7 @@ const projectData = [
     {
         id: 1,
         title: "Latest Ankara",
-        description: "This platform is animated and describ more about me as developer",
+        description: "This are sample of Anakara that we are selling",
         image: "/ankara/ankara1.jpeg",
         tag: ["All", "Ankara"],
         gitUrl: "https://github.com/brightstar-moxi",
@@ -19,7 +19,7 @@ const projectData = [
 
         id: 2,
         title: "Update Coming Soon",
-        description: "This design is used as an invitation for girls only",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "Gini"],
         gitUrl: "/",
@@ -29,7 +29,7 @@ const projectData = [
 
         id: 3,
         title: "Latest Ankara",
-        description: "This platform is animated and describ more about me as developer",
+        description: "This are sample of Anakara that we are selling",
         image: "/ankara/ankara2.webp",
         tag: ["All", "Ankara"],
         gitUrl: "https://github.com/brightstar-moxi",
@@ -39,7 +39,7 @@ const projectData = [
 
         id: 4,
         title: "Update Coming Soon",
-        description: "Patrick was in love with Ayomide at Polytechnic Ibadan",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "Lace"],
         gitUrl: "/",
@@ -48,7 +48,7 @@ const projectData = [
     {
         id: 5,
         title: "Update Coming Soon ",
-        description: "This Platform is a Best Fashion Collection where you can do online shopping and make payment,and will be deliver to address",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "School Uniform"],
         gitUrl: "https://github.com/brightstar-moxi",
@@ -58,7 +58,7 @@ const projectData = [
 
         id: 6,
         title: "Latest Ankara",
-        description: "This platform is animated and describ more about me as developer",
+        description: "This are sample of Anakara that we are selling",
         image: "/ankara/ankara3.jpeg",
         tag: ["All", "Ankara"],
         gitUrl: "https://github.com/brightstar-moxi",
@@ -68,7 +68,7 @@ const projectData = [
 
         id: 7,
         title: "Update Coming Soon",
-        description: "This design is used as an invitation for that have interest in learning Graphics design",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "Gini"],
         gitUrl: "/",
@@ -78,7 +78,7 @@ const projectData = [
 
         id: 8,
         title: "Latest Ankara",
-        description: "This platform is animated and describ more about me as developer",
+        description: "This are sample of Anakara that we are selling",
         image: "/ankara/ankara4.jpeg",
         tag: ["All", "Ankara"],
         gitUrl: "https://github.com/brightstar-moxi",
@@ -88,7 +88,7 @@ const projectData = [
 
         id: 7,
         title: "Update Coming Soon",
-        description: "This design is used to call people attention to come and buy cream",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "Lace"],
         gitUrl: "/",
@@ -97,7 +97,7 @@ const projectData = [
 
         id: 8,
         title: "Update Coming Soon ",
-        description: "his design is used as an invitation for that have interest in earning ",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "School Uniform"],
         gitUrl: "/",
@@ -107,7 +107,7 @@ const projectData = [
 
         id: 9,
         title: "Update Coming Soon",
-        description: "This design is used to call people attention to come and dress their hair",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "Design"],
         gitUrl: "/",
@@ -117,7 +117,7 @@ const projectData = [
     {
         id: 10,
         title: "Latest Ankara",
-        description: "This platform is animated and describ more about me as developer",
+        description: "This are sample of Anakara that we are selling",
         image: "/ankara/ankara5.jpeg",
         tag: ["All", "Ankara"],
         gitUrl: "https://github.com/brightstar-moxi",
@@ -127,7 +127,7 @@ const projectData = [
 
         id: 11,
         title: "Update Coming Soon",
-        description: "This design is used to call people attention to come and dress their hair",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "Gini"],
         gitUrl: "/",
@@ -137,7 +137,7 @@ const projectData = [
 
         id: 12,
         title: "Update Coming Soon",
-        description: "This design is used to call people attention to come and dress their hair",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "School Uniform"],
         gitUrl: "/",
@@ -146,7 +146,7 @@ const projectData = [
     {
         id: 13,
         title: "Latest Ankara",
-        description: "This platform is animated and describ more about me as developer",
+        description: "This are sample of Anakara that we are selling",
         image: "/ankara/ankara6.jpg",
         tag: ["All", "Ankara"],
         gitUrl: "https://github.com/brightstar-moxi",
@@ -155,7 +155,7 @@ const projectData = [
     {
         id: 14,
         title: "Latest Ankara",
-        description: "This platform is animated and describ more about me as developer",
+        description: "This are sample of Anakara that we are selling",
         image: "/ankara/ankara7.jpg",
         tag: ["All", "Ankara"],
         gitUrl: "https://github.com/brightstar-moxi",
@@ -165,7 +165,7 @@ const projectData = [
 
         id: 15,
         title: "Update Coming Soon",
-        description: "This design is used to call people attention to come and dress their hair",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "School Uniform"],
         gitUrl: "/",
@@ -174,7 +174,7 @@ const projectData = [
     {
         id: 16,
         title: "Latest Ankara",
-        description: "This platform is animated and describ more about me as developer",
+        description: "This are sample of Anakara that we are selling",
         image: "/ankara/ankara8.jpeg",
         tag: ["All", "Ankara"],
         gitUrl: "https://github.com/brightstar-moxi",
@@ -184,7 +184,7 @@ const projectData = [
 
         id: 17,
         title: "Update Coming Soon",
-        description: "This design is used to call people attention to come and dress their hair",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "Lace"],
         gitUrl: "/",
@@ -193,7 +193,7 @@ const projectData = [
     {
         id: 18,
         title: "Latest Ankara",
-        description: "This platform is animated and describ more about me as developer",
+        description: "This are sample of Anakara that we are selling",
         image: "/ankara/ankara9.jpeg",
         tag: ["All", "Ankara"],
         gitUrl: "https://github.com/brightstar-moxi",
@@ -203,7 +203,7 @@ const projectData = [
 
         id: 19,
         title: "Update Coming Soon",
-        description: "This design is used to call people attention to come and dress their hair",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "School Uniform"],
         gitUrl: "/",
@@ -213,7 +213,7 @@ const projectData = [
 
         id: 20,
         title: "Update Coming Soon",
-        description: "This design is used to call people attention to come and dress their hair",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "Cloth Materials"],
         gitUrl: "/",
@@ -223,7 +223,7 @@ const projectData = [
 
         id: 21,
         title: "Update Coming Soon",
-        description: "This design is used to call people attention to come and dress their hair",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "Cloth Materials"],
         gitUrl: "/",
@@ -233,7 +233,7 @@ const projectData = [
 
         id: 22,
         title: "Update Coming Soon",
-        description: "This design is used to call people attention to come and dress their hair",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "School Uniform"],
         gitUrl: "/",
@@ -243,7 +243,7 @@ const projectData = [
 
         id: 23,
         title: "Update Coming Soon",
-        description: "This design is used to call people attention to come and dress their hair",
+        description: "Update is coming Soon",
         image: "/ankara/update.png",
         tag: ["All", "Cloth Materials"],
         gitUrl: "/",
