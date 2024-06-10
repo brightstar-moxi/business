@@ -18,9 +18,9 @@ const projectData = [
     {
 
         id: 2,
-        title: "Update Coming Soon",
-        description: "Update is coming Soon",
-        image: "/ankara/update.png",
+        title: "Latest Gini",
+        description: "This are sample of Gini that we are selling",
+        image: "/images/gini1.jpeg",
         tag: ["All", "Gini"],
         gitUrl: "/",
         previewUrl: "/"
@@ -47,9 +47,9 @@ const projectData = [
     },
     {
         id: 5,
-        title: "Update Coming Soon ",
-        description: "Update is coming Soon",
-        image: "/ankara/update.png",
+        title: "School Uniform",
+        description: "This are sample of School Uniform that we are selling",
+        image: "/images/sch1.jpeg",
         tag: ["All", "School Uniform"],
         gitUrl: "https://github.com/brightstar-moxi",
         previewUrl: "https://fullstack-ecommerce-six.vercel.app/"
@@ -96,9 +96,9 @@ const projectData = [
     },  {
 
         id: 8,
-        title: "Update Coming Soon ",
-        description: "Update is coming Soon",
-        image: "/ankara/update.png",
+        title: "School Uniform",
+        description: "This are sample of School Uniform that we are selling",
+        image: "/images/sch2.jpeg",
         tag: ["All", "School Uniform"],
         gitUrl: "/",
         previewUrl: "/"
@@ -137,8 +137,8 @@ const projectData = [
 
         id: 12,
         title: "Update Coming Soon",
-        description: "Update is coming Soon",
-        image: "/ankara/update.png",
+        description: "This are sample of School Uniform that we are selling",
+        image: "/images/sch3.jpeg",
         tag: ["All", "School Uniform"],
         gitUrl: "/",
         previewUrl: "/"
@@ -164,9 +164,9 @@ const projectData = [
     {
 
         id: 15,
-        title: "Update Coming Soon",
-        description: "Update is coming Soon",
-        image: "/ankara/update.png",
+        title: "School Uniform",
+        description: "This are sample of School Uniform that we are selling",
+        image: "/images/sch4.jpeg",
         tag: ["All", "School Uniform"],
         gitUrl: "/",
         previewUrl: "/"
@@ -202,9 +202,9 @@ const projectData = [
     {
 
         id: 19,
-        title: "Update Coming Soon",
-        description: "Update is coming Soon",
-        image: "/ankara/update.png",
+        title: "School Uniform",
+        description: "This are sample of School Uniform that we are selling",
+        image: "/images/sch5.jpg",
         tag: ["All", "School Uniform"],
         gitUrl: "/",
         previewUrl: "/"
@@ -232,9 +232,9 @@ const projectData = [
     {
 
         id: 22,
-        title: "Update Coming Soon",
-        description: "Update is coming Soon",
-        image: "/ankara/update.png",
+        title: "School Uniform",
+        description: "This are sample of School Uniform that we are selling",
+        image: "/images/sch6.jpeg",
         tag: ["All", "School Uniform"],
         gitUrl: "/",
         previewUrl: "/"
