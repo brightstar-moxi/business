@@ -38,8 +38,8 @@ const projectData = [
     {
 
         id: 4,
-        title: "Update Coming Soon",
-        description: "Update is coming Soon",
+        title: "Latest Lace",
+        description: "This are sample of Lace that we are selling",
         image: "/images/lace.jpg",
         tag: ["All", "Lace"],
         gitUrl: "/",
@@ -87,8 +87,8 @@ const projectData = [
     {
 
         id: 7,
-        title: "Update Coming Soon",
-        description: "Update is coming Soon",
+        title: "Latest Lace",
+        description: "This are sample of Lace that we are selling",
         image: "/images/lace2.webp",
         tag: ["All", "Lace"],
         gitUrl: "/",
@@ -103,16 +103,16 @@ const projectData = [
         gitUrl: "/",
         previewUrl: "/"
     },
-    {
+    // {
 
-        id: 9,
-        title: "Update Coming Soon",
-        description: "Update is coming Soon",
-        image: "/ankara/update.png",
-        tag: ["All", "Design"],
-        gitUrl: "/",
-        previewUrl: "/"
-    },
+    //     id: 9,
+    //     title: "Update Coming Soon",
+    //     description: "Update is coming Soon",
+    //     image: "/ankara/update.png",
+    //     tag: ["All", "Design"],
+    //     gitUrl: "/",
+    //     previewUrl: "/"
+    // },
   
     {
         id: 10,
@@ -183,8 +183,8 @@ const projectData = [
     {
 
         id: 17,
-        title: "Update Coming Soon",
-        description: "Update is coming Soon",
+        title: "Latest Lace ",
+        description: "This are sample of Lace that we are selling",
         image: "/images/lace3.jpg",
         tag: ["All", "Lace"],
         gitUrl: "/",
