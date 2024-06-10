@@ -40,7 +40,7 @@ const projectData = [
         id: 4,
         title: "Latest Lace",
         description: "This are sample of Lace that we are selling",
-        image: "/images/lace.jpg",
+        image: "/images/lace.jpeg",
         tag: ["All", "Lace"],
         gitUrl: "/",
         previewUrl: "/"
