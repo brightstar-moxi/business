@@ -40,7 +40,7 @@ const projectData = [
         id: 4,
         title: "Update Coming Soon",
         description: "Update is coming Soon",
-        image: "/ankara/update.png",
+        image: "/images/lace.jpg",
         tag: ["All", "Lace"],
         gitUrl: "/",
         previewUrl: "/"
@@ -89,7 +89,7 @@ const projectData = [
         id: 7,
         title: "Update Coming Soon",
         description: "Update is coming Soon",
-        image: "/ankara/update.png",
+        image: "/images/lace2.webp",
         tag: ["All", "Lace"],
         gitUrl: "/",
         previewUrl: "/"
@@ -185,7 +185,7 @@ const projectData = [
         id: 17,
         title: "Update Coming Soon",
         description: "Update is coming Soon",
-        image: "/ankara/update.png",
+        image: "/images/lace3.jpg",
         tag: ["All", "Lace"],
         gitUrl: "/",
         previewUrl: "/"
