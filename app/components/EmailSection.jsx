@@ -2,7 +2,7 @@
 import React from 'react';
  import GithubIcon from "/public/images/CALL3.png";
 //  import LinkedinIcon from "https://whas.me/media/_button_image";
- import LinkedinIcon from "/public/images/cap.JPG";
+ import LinkedinIcon from "/public/images/Cap.png";
 import Link from 'next/link';
 import Image from 'next/image';
 
