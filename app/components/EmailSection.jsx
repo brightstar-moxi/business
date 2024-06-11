@@ -1,8 +1,8 @@
 "use client"
 import React from 'react';
- import GithubIcon from "../../public/images/CALL3.png";
+ import GithubIcon from "/public/images/CALL3.png";
 //  import LinkedinIcon from "https://whas.me/media/_button_image";
- import LinkedinIcon from "../../public/images/cap.JPG";
+ import LinkedinIcon from "/public/images/cap.JPG";
 import Link from 'next/link';
 import Image from 'next/image';
 
@@ -18,7 +18,7 @@ const EmailSection = () => {
                    We are located at Shop 267, Gbaremu Market, Ijokodo, Eleyele-Sango Road, Ibadan.
                 </p>
                 <p className='text-xl font-bold text-white my-2'>Open: 8:00 AM</p>
-                <p className='text-xl font-bold text-white my-2'>Close: 6:00 AM</p>
+                <p className='text-xl font-bold text-white my-2'>Close: 6:00 PM</p>
                 {/* <p className='text-xl font-bold text-white my-2'>Call:</p>
                 <p className='text-xl font-bold text-white my-2'>Chat:</p> */}
                 <p className='text-[#c8cdd1] mb-4 max-w-md'>Click on any of the icon to either call or chat with us</p>
